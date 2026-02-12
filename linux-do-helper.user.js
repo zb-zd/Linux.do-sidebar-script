@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.0.1
 // @description  为 Linux.do 添加快捷评论和回到顶部
-// @author       You
+// @author       jpzuo
 // @match        https://linux.do/*
 // @grant        none
 // @run-at       document-end
